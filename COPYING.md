@@ -11,7 +11,7 @@ of the GNU Affero General Public License as published by the Free Software
 Foundation; either version 3 of the License, or (at your option) any later
 version.
 
-Lila is distributed in the hope that it will be useful, but WITHOUT ANY
+Pychess is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
 A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
 details.
@@ -23,13 +23,9 @@ See the LICENSE file for a copy of the _GNU Affero General Public License_.
 <!-- prettier-ignore -->
 Files | Author(s) | License
 --- | --- | ---
+//Hmmm
 
 
-## Exceptions (non-free)
-
-<!-- prettier-ignore -->
-Files | Author(s) | License
---- | --- | ---
 
 
 - The other sounds in public/sound
